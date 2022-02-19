@@ -1,0 +1,89 @@
+body {
+  background-image: url("dm.jpg"), url('bg-bottom-light.svg');
+  background-repeat: no-repeat;
+}
+
+.logo{
+	padding-left:50px;
+}
+
+.opt1 {
+text-align : right;
+color:#ffffff99;
+font-family:StRydeRegular;
+padding-right:50px;
+}
+
+.opt2 {
+text-align : right;
+color:white;
+font-family:;
+padding-right:50px;
+}
+
+.button {
+  background-color: transparent;
+  border: 2px solid white ;
+  color: white;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 50px;
+  font-weight: bold;
+  text-align:center;
+  margin: 0;
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.fb {
+height:25px;
+widht:300px;
+}
+
+.twit {
+height:28px;
+widht:300px;
+}
+
+.ig {
+height:30px;
+widht:300px;
+}
+
+.mail {
+height:23px;
+widht:300px;
+}
+
+.search{
+background-color: white;
+border: 5px solid white ;
+color: grey;
+padding: 5px 0px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 20px;
+border-radius: 100px;
+font-weight: bold;
+}
+
+.sg {
+background-color:white;
+border: 8px solid white ;
+border-radius: 100px;
+height:23px;
+widht:300px;
+}
+
+.design{
+widht:100px;
+opeject-fit:cover;
+object-position: 20% 100%;
+}
